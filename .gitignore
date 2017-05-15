@@ -1,14 +1,101 @@
-# Compiled Python files
-*.pyc
-
-# Folder view configuration files
-.DS_Store
-Desktop.ini
-
-# Thumbnail cache files
+# OS Cruft
 ._*
-Thumbs.db
-
-# Files that might appear on external disks
+.DS_Store
 .Spotlight-V100
 .Trashes
+Desktop.ini
+Thumbs.db
+
+# Elixir
+*.ez
+/_build
+/cover
+/deps
+
+# Emacs
+*.elc
+*.rel
+*_archive
+*_flymake.*
+*~
+.#*
+.cask/
+.dir-locals.el
+.org-id-locations
+.projectile
+/.emacs.desktop
+/.emacs.desktop.lock
+/auto/
+/elpa/
+/eshell/history
+/eshell/lastdir
+/server/
+\#*\#
+auto-save-list
+dist/
+flycheck_*.el
+tramp
+
+# Erlang
+*.beam
+*.o
+*.plt
+.concrete/DEV_MODE
+.eunit
+.rebar
+deps
+ebin/*.beam
+erl_crash.dump
+rel/example_project
+
+# Purescript
+.psci
+.psci_modules
+output
+
+# Python
+*.pyc
+
+# Ruby
+*.rbc
+.rspec
+.rvmrc
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log
+/tmp
+/vendor/bundle
+config/initializers/secret_token.rb
+
+# Sass
+*.css.map
+.sass-cache/
+
+# Node
+*.tgz
+.env
+.eslintcache
+.lock-wscript
+.npm
+.nyc_output
+.yarn-integrity
+bower_components
+build/Release
+coverage
+jspm_packages/
+lib-cov
+node_modules/
+
+# Logs
+*.log
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+*.pid
+*.pid.lock
+*.seed
+pids

@@ -8,6 +8,7 @@ brew cask install whatsapp
 
 # Development
 brew cask install atom
+brew cask install expo-xde
 brew cask install haskell-platform
 brew cask install iterm2
 brew cask install macdown
@@ -38,6 +39,7 @@ brew cask install appcleaner
 brew cask install bartender
 brew cask install bettertouchtool
 brew cask install box-sync
+brew cask install hyperswitch
 brew cask install itsycal
 brew cask install jing
 brew cask install moom

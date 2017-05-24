@@ -69,6 +69,7 @@ brew install python
 brew install ruby
 brew install tig
 brew install watch
+brew install watchman
 brew install weechat
 brew install yarn
 

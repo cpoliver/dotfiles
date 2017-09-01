@@ -41,7 +41,6 @@ brew cask install bettertouchtool
 brew cask install box-sync
 brew cask install hyperswitch
 brew cask install itsycal
-brew cask install jing
 brew cask install moom
 brew cask install namechanger
 brew cask install synergy

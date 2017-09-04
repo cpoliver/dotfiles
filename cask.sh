@@ -24,6 +24,7 @@ brew cask install transmission
 
 # Media
 brew cask install 4k-video-downloader
+brew cask install iina
 brew cask install plex-media-player
 brew cask install plex-media-server
 brew cask install spotify
@@ -37,10 +38,12 @@ brew cask install 1password
 brew cask install alfred
 brew cask install appcleaner
 brew cask install bartender
+brew cask install beardedspice
 brew cask install bettertouchtool
+brew cask install bitbar
 brew cask install box-sync
-brew cask install hyperswitch
 brew cask install itsycal
+brew cask install keka
 brew cask install moom
 brew cask install namechanger
 brew cask install synergy

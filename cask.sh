@@ -42,6 +42,7 @@ brew cask install beardedspice
 brew cask install bettertouchtool
 brew cask install bitbar
 brew cask install box-sync
+brew cask install boom
 brew cask install itsycal
 brew cask install keka
 brew cask install moom

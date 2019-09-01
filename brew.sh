@@ -66,6 +66,7 @@ brew install mas
 brew install mongodb
 brew install node
 brew install n
+brew install nvim
 brew install python
 brew install ruby
 brew install taskell
@@ -75,6 +76,7 @@ brew install watchman
 brew install weechat
 brew install wtfutil
 brew install yarn
+brew install z
 
 # Remove outdated versions from the cellar.
 brew cleanup

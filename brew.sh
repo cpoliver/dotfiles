@@ -68,10 +68,12 @@ brew install node
 brew install n
 brew install python
 brew install ruby
+brew install taskell
 brew install tig
 brew install watch
 brew install watchman
 brew install weechat
+brew install wtfutil
 brew install yarn
 
 # Remove outdated versions from the cellar.
